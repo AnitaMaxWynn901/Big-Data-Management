@@ -4,3 +4,8 @@ kafka_2.13-3.8.1.tgz
 *.zip
 .ipynb_checkpoints/
 .pptx
+.ipynb_checkpoints/
+kafka_2.13-3.8.1/
+*.tgz
+*.zip
+Big-Data-Management-clean/
