@@ -1,12 +1,6 @@
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignore Kafka folder
 kafka_2.13-3.8.1/
-
-# Ignore zip files
+kafka_2.13-3.8.1.tgz
+*.tgz
 *.zip
-
+.ipynb_checkpoints/
 .pptx
-
-.tgz
